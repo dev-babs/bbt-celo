@@ -13,7 +13,7 @@ import { useQueryClient } from "@tanstack/react-query";
 import { Address } from "viem";
 import blocxtactoeAbiArtifact from "@/abi/blocxtactoeabi.json";
 import { CONTRACT_ADDRESS } from "@/config/constants";
-import { TokenOption } from "./TokenDisplay";
+import { TokenOption, TokenBalanceDisplay } from "./TokenDisplay";
 import { useTokenBalance } from "@/hooks/useTokenBalance";
 
 export function CreateGameContent() {
