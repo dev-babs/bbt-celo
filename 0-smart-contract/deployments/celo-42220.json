@@ -1,0 +1,13 @@
+{
+  "contractName": "BlOcXTacToe",
+  "address": "0x2fD7aDE08AbD28DC0b33357Ff28A1ecB31a3790B",
+  "deployer": "0x95f87C578aA1d3E72Ba7ee27d2d506c3CE8f8f10",
+  "network": "celo",
+  "chainId": "42220",
+  "transactionHash": "0xfd6f7ba694c56c8657bf768da3f5fd1616a35f0c5956c0ffdafcfc2c23201f4b",
+  "timestamp": "2025-12-01T01:49:00.000Z",
+  "blockNumber": 53168530,
+  "moveTimeout": "24 hours (configurable)",
+  "platformFeePercent": "0% (configurable)",
+  "constructorArgs": []
+}
